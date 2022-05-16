@@ -1,4 +1,4 @@
-# # buck audit
+# buck audit
 
 Provide information about build configuration parameters, targets, and rules.
 Syntax:
